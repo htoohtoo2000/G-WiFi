@@ -2,62 +2,26 @@
    "files": [   
 
 {
-         "name": "Dtac​ JP01",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/JP.TEST.DTAC.TRUE1.ovpn"
+         "name": "dtac-VIP-1",
+         "url": "https://raw.githubusercontent.com/htoohtoo2000/G-WiFi/main/dtacfree00.ovpn"
       },
       
     {
-         "name": "Dtac​ JP02",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/JP.TEST.DTAC.TRUE2.ovpn"
+         "name": "dtac-VIP-2",
+         "url": "https://raw.githubusercontent.com/htoohtoo2000/G-WiFi/main/dtacfree01.ovpn"
       },  
 
 
       
       {
-         "name": "Dtac Free​",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/SG.TEST.DTAC.TRUE1.ovpn" 
-      },
-      
-      {
-         "name": "Dtac Free​",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/SG.TEST.DTAC.TRUE2.ovpn" 
-      },
-      
-      {
-         "name": "Dtac Free​",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/SG.TEST.DTAC.TRUE3.ovpn" 
-      },
-      
-      {
-         "name": "Dtac Free​ ",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/SG.TEST.DTAC.TRUE4.ovpn"
-      },
-      
-      {
-         "name": "Dtac Free​ ",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/SG.TEST.DTAC.TRUE5.ovpn"
-      },
-      
-      {
-         "name": "Dtac Free​ SG06",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/SG.TEST.DTAC.TRUE6.ovpn"
-      },
-      
-{
-         "name": "Dtac Free​ SG07",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/SG.TEST.DTAC.TRUE7.ovpn"
-      },
-      
- 
-{
-         "name": "Dtac Free​ SG08",
-         "url": "https://raw.githubusercontent.com/Nookerzi1992/updata-Auto/main/SG.TEST.DTAC.TRUE8.ovpn"
+         "name": "dtac-VIP-3",
+         "url": "https://raw.githubusercontent.com/htoohtoo2000/G-WiFi/main/dtacfree03.ovpn" 
       }
 
      
 
    ],
-"message":" \nรองรับ NOPRO Dtac  True​\n​DTAC​ NOPRO\n​TRUE​ NOPRO\nเซิร์ฟเวอร์ไม่แรง\nต้องขออภัยมาใน ณ ที่นี้ด้วยครับ\n คอนฟิกเวอร์ชั่น: 14\nอัพเดทเมื่อวันที่: 20/12/2022\n \nผู้พัฒนาแอพ:NOOKER\n  ",
+"message":" \nรองรับ NOPRO Dtac  True​\n​DTAC​ NOPRO\n​TRUE​ NOPRO\nเซิร์ฟเวอร์ไม่แรง\nต้องขออภัยมาใน ณ ที่นี้ด้วยครับ\n คอนฟิกเวอร์ชั่น: 15\nอัพเดทเมื่อวันที่: 25/9/2023\n \nผู้พัฒนาแอพ:NOOKER\n  ",
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-   "version": 14
+   "version": 15
 }
