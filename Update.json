@@ -11,17 +11,19 @@
          "url": "https://raw.githubusercontent.com/htoohtoo2000/G-WiFi/main/dtacfree01.ovpn"
       },  
 
-
+         "name": "dtac-VIP-3",
+         "url": "https://raw.githubusercontent.com/htoohtoo2000/G-WiFi/main/dtacfree03.ovpn"
+      },  
       
       {
-         "name": "dtac-VIP-3",
-         "url": "https://raw.githubusercontent.com/htoohtoo2000/G-WiFi/main/dtacfree03.ovpn" 
+         "name": "dtac-VIP-4",
+         "url": "https://raw.githubusercontent.com/htoohtoo2000/G-WiFi/main/dtacfree04.ovpn" 
       }
 
      
 
    ],
-"message":" \n အသုံးပြုနိုင်သော်စင်းကဒ် Dtac True​\n​DTAC​ NOPRO\n​TRUE​ NOPRO\n updateမလုပ်လျှင်လိုင်းမကောင်းပါ\ကျေးဇူးပြု၍ update လုပ်ပေးပါ\n version: 3\n ရက်/လ/နစ်: 28/9/2023\n \nROSE-NET-30DAY\n  ",
+"message":" \n အသုံးပြုနိုင်သော်စင်းကဒ် Dtac True\nDTAC NOPRO\nTRUE NOPRO\n updateမလုပ်လျှင်လိုင်းမကောင်းပါ\ကျေးဇူးပြု၍ update လုပ်ပေးပါ\n version: 4\n ရက်/လ/နစ်: 28/9/2023\n \nROSE-NET-30DAY\n  ",
    "title":"new update လာပြီးဗျို့" ,
-   "version": 3
+   "version": 4
 }
